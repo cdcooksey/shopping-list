@@ -1,0 +1,5 @@
+cooksey_flapp:
+    resource: "@CookseyFlappBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
